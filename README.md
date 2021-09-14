@@ -17,7 +17,7 @@ python main.py
 ```
 python unitTest.py
 ```
-* insert Data to DB(optional)
+* Insert Data to DB(optional)
 ```
 python temp_data_test.py
 ```
